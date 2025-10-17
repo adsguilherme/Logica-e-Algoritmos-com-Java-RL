@@ -15,5 +15,4 @@ public class ExpressoesSwitch {
 
         System.out.println(mensagem);
     }
-
 }
