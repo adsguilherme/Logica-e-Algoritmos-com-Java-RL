@@ -42,10 +42,10 @@ public class Exercicio05 {
 
         // Expressões Switch
         double retorno = switch(calculo){
-            case 1 -> numero1+numero2;
-            case 2 -> numero1-numero2;
-            case 3 -> numero1*numero2;
-            case 4 -> numero1/numero2;
+            case 1 -> numero1 + numero2;
+            case 2 -> numero1 - numero2;
+            case 3 -> numero1 * numero2;
+            case 4 -> numero1 / numero2;
             default -> 0;
         };
 
